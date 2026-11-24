@@ -1,2 +1,7 @@
-langchain
 streamlit
+langchain
+langchain-core
+langchain-classic
+langchain-openai
+python-dotenv
+httpx
